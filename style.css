@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body{
+    text-align: center;
+    position: relative;
+    background-color: rgb(253, 230, 253);
+    font-family: 'Lora', serif;
+}
+
+label{
+    display: block;
+    padding-bottom: 1rem;
+    font-size: 1.3rem;
+    
+}
+
+.container {
+    width: 40%;
+    margin: auto;
+    margin-top: 1rem;
+  }
+
+h1{
+    color: purple;
+    text-align: center;
+}
+
+main{
+    width: 70%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+input {
+    margin-bottom: 1rem;
+    padding: 0.6rem;
+    border: 2px solid purple;
+    border-radius: 0.2rem;
+    width: 100%;
+    font-size: 1rem
+  }
+
+  button {
+    width: 70%;
+    margin-top: 1.3rem;
+    padding: 0.6rem 1.5rem;
+    background: purple;
+    font-size: 1.5rem;
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    cursor: pointer;
+  }
+
+  
+#output {
+    padding: 1rem;
+    margin: auto;
+    width: 65%;
+    height: auto;
+    text-align: center;
+  }
+
+
+  .footer {
+    margin: 1rem;
+    padding-bottom: 0.1rem;
+}
+
+.footer a {
+    padding-inline: 0.5rem;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
