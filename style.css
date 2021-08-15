@@ -54,6 +54,7 @@ input {
 
   
 #output {
+    font-size: 1.5rem;
     padding: 1rem;
     margin: auto;
     width: 65%;
